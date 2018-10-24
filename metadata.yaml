@@ -1,0 +1,22 @@
+_repo: The-Trial-and-Conviction-of-John-Church_58020
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barrister, A
+    gutenberg_agent_id: '49732'
+    url: http://www.gutenberg.org/2009/agents/49732
+description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58020#The-Trial-and-Conviction-of-John-Church
+gutenberg_issued: '2018-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58020'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Trial and Conviction of John Church
+url: http://www.gutenberg.org/ebooks/58020
